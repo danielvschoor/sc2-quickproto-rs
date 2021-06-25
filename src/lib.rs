@@ -1,3 +1,3 @@
-mod SC2APIProtocol;
+pub mod SC2APIProtocol;
 
 pub use quick_protobuf;
